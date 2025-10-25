@@ -3,7 +3,7 @@ const HeroSection = () => {
         <main className="hero container">
             <div className="hero-content">
                 <h1>IT'S TIME <br /> FOR THAT EUROTRIP</h1>
-                <p>YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR SHOES.YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR SHOES.</p>
+                <p>Built Wicket longer admire do barton vanity itself do in it. Preferred to sportsmen it engrossed listening. Park gate sell they west hard for the.</p>
                 <div className="hero-btn">
                     <button>See details</button>
                   
@@ -15,4 +15,5 @@ const HeroSection = () => {
         </main>
     )
 }
+
 export default HeroSection;
